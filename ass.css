@@ -56,6 +56,7 @@ img {
 }
 .wel-img{
 
+background-repeat: no-repeat;
  position: relative;
 text-align: center;
 }
@@ -211,14 +212,138 @@ font-size: 72px;
     color: rgba(81, 5, 231, 0.6);
 font-size: 20px;
 }
+.portfolio-content {
+    width: 800px;
+    margin: auto;
+    margin-top: 80px;
+  }
+  .GIFTS {
+    color: #f00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .Portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: capitalize;
+  }
+  .port-dis {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+  }
+  
+  .items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:0%;
+  }
+  .item {
+    width: 200px;
+    height: 200px;
+  }
+  
+  
+
+
 .dis-title{
     display: inline-block;
 }
-.colum1-title{
-    position: absolute;
-    left: 0px;
-    
-    z-index: -1;
-  }
 
- 
+.last-img-title{
+    width: 150px;
+height: 150px;
+margin-bottom: 8px;
+}
+.sub-title{
+    color: #120035;
+text-align: center;
+font-size: 48px;
+margin-bottom: 25px;
+}
+.subsri-title{
+color: rgba(247, 0, 0, 0.6);
+text-align: center;
+font-size: 20px;
+margin-bottom: 50px;}
+.email-title{
+    text-align: center;
+
+}
+.gmaile-title{
+    width: 208px;
+    border-style: groove;
+height: 30px;
+text-align: left;
+margin-bottom: 30px;
+
+
+background: #FFF;
+}
+.button2-title{
+    width: 110px;
+    height: 33px;
+    border-radius: 0px 50px 50px 0px;
+background: #F00;
+    }
+.finalpart-title{
+    width: 1345px;
+height: 500px;
+background: #070211;
+display: block;
+
+}
+.finish-title{
+    
+    display: flex;
+    color: rgb(205, 212, 218);
+    justify-content: space-around;
+
+    
+}
+.lastp-title{
+    margin-top: 150px;
+    color: springgreen;
+    
+}
+.last2-title{
+    margin-top: 150px;
+    color: springgreen;
+}
+.span-title{
+color: turquoise;
+}
+.hr-title{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.logo-title{
+    display: flex;
+    justify-content: center;
+}
+.fblogo-title{
+    margin: 15px;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.hr2-title{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.end-title{
+    display: flex;
+    justify-content: space-around;
+    color: antiquewhite;
+    margin-bottom: 50px;
+}
+    
