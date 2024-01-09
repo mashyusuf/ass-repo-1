@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+    
+body{
+    font-family: 'Merriweather', serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 1100px;
+    margin-top: 60px;
+    margin-bottom: 90px;
+}
+.img-in{
+    position: relative;
+    text-align: center;
+    
+}
+.happy{
+    position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  color: rgb(5, 193, 250);
+}
+.happy-1{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 55px;
+    color: rgb(10, 248, 224);
+}
+.head-title{
+    text-align: center;
+    
+}
+.h2-title{
+    font-size: 50px;
+    margin-bottom: 40px;
+    color: rgb(177, 4, 177);
+}
+.h5-title{
+    font-size: 20px;
+    color: rgb(20, 178, 184);
+    margin-bottom: 20px;
+}
+.h3-title{
+    font-size: 25px;
+    color: rgb(235, 98, 49);
+}
+.wel-img{
+
+ position: relative;
+text-align: center;
+}
+.wellcome-title{
+    position: absolute;
+    top: 130px;
+    left: 200px;
+    font-size: 30px;
+    color: cyan;
+    
+}
+.para-title{
+
+ position: absolute;
+    top: 300px;
+    left: 200px;
+    font-size: 15px;
+    color: rgb(24, 223, 140);
+}
+.button-title{
+    position: absolute;
+    top: 380px;
+    left: 200px;
+    border-style: groove ;
+    border-color: rgb(21, 238, 253);
+    
+    
+}
+.back{
+    background-color: rgb(130, 231, 155);
+}
+.border-title{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: rgb(98, 204, 236);
+    margin: 130px;
+}
+.about-info-container{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.place-title {
+    color: rgb(255, 4, 201);
+}
+.date-title{
+    color: rgb(219, 36, 4);
+}
+.time-title{
+    color: rgb(194, 50, 2);
+}
+span {
+    color: black;
+}
+.new-color{
+    color: rgb(5, 56, 26);
+}
+.time-color{
+    color: rgb(4, 59, 161);
+}
+.date-color{
+    color: rgb(32, 61, 2);
+}
+.button1-title{
+    
+    display: inline-flex;
+padding: 8px 15px;
+justify-content: center;
+color: rgb(0, 2, 2);
+gap: 10px;
+border-radius: 5px;
+background: rgb(233, 58, 58);
+}
+.pic-title{
+    padding: 40px 50px;
+    border-radius: 60px;
+    background-color: rgb(8, 158, 158);
+    margin: 80px;
+} 
+.lets-see-title{
+    display: flex;
+    display: inline;
+}
+.h44-title{
+    left: auto;
+    color: rgb(231, 142, 8);
+font-size: 18px;
+margin-bottom: 15px; 
+}
+.h22-title{
+    color: #4204bd;
+font-size: 48px;
+margin-bottom: 15px;
+}
+.p-title{
+    color: rgba(208, 197, 236, 0.6);
+    font-size: 20px;
+}
+.tow-title{
+text-align:right;
+    color: rgb(159, 3, 231);
+    font-size: 40px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.any-title{
+    text-align: right;
+    color: springgreen;
+}
+.elle-title{
+    
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 364.844px;
+    width: 463px;
+height: 463px;
+border-radius: 463px;
+border: 15px solid rgb(151, 9, 132);
+}
+.elle-title{
+   padding: 25px;
+   background-color: azure;
+}
+.title-pic{
+    margin-left:90%;
+    margin-top: 10px;
+}
+.elle-title{
+    margin-top: 0;
+    margin-right: 60%;
+    
+    margin-left: auto;
+    margin-right: 70%;
+    
+}
+
+.holiday-title{
+    text-align: center;
+    
+}
+.fun-title{
+    color: rgb(3, 187, 95);
+font-size: 24px;
+}
+.holid-title{
+    color: rgb(189, 5, 143);
+font-size: 72px;
+}
+.sale-title{
+    color: rgb(233, 6, 6);
+}
+.peera-title{
+    color: rgba(81, 5, 231, 0.6);
+font-size: 20px;
+}
+.dis-title{
+    display: inline-block;
+}
+.colum1-title{
+    position: absolute;
+    left: 0px;
+    
+    z-index: -1;
+  }
+
+ 

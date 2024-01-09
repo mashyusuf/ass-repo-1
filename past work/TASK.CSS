@@ -1,0 +1,39 @@
+*{
+    margin: 10px;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.main{
+    letter-spacing: 1px;
+    word-spacing: 0%;
+    color: cornflowerblue;
+    
+}
+.main input{
+
+    border-style: groove;
+    border-width: 6px;
+    border-color: coral;
+}
+.main span{
+    color: black;
+}
+img{
+    width: 200PX;
+    
+}
+.img a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+.enter{
+color: rgb(29, 165, 70);
+}
+.enter span{
+    color: black;
+}
+.enter input{
+    border-style: groove;
+    border-width: 4px;
+    border-color: rgb(6, 136, 93);
+}

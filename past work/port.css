@@ -1,0 +1,188 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+.section-title{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-desc{
+    color: rgb(5, 78, 236);
+    text-align: center;
+    font: 18px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 130px;
+
+}
+.nav-title{
+    color: crimson;
+    font-size: 45px;
+    font-weight: 800;
+}
+.btn-primary{
+    border-radius: 5px;
+    background-color: rgb(197, 14, 167);
+    border: 0;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 23px;
+}
+.text-primary{
+    color: rgb(2, 160, 160);
+}
+nav > ul{
+    display: flex;
+    
+   
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: rgb(50, 99, 1);
+}
+.header{
+    
+    background-image: url('img/letsgo.png'); 
+    background-repeat: no-repeat;
+   background-position: bottom right;
+    background-color: rgb(255, 242, 207)
+}
+.banner{
+    padding: 30px 30px 0px 140px;
+    display: flex;
+}
+.banner .profile-pic{
+    width: 500px;
+}
+.banner-greering{
+    font-size: 45px;
+    color: #474747;
+    margin: 0;
+}
+.banner-title{
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+main{
+    
+    margin: 0 auto;
+}
+.banner-disc{
+    margin-top: 10px;
+    margin-bottom: 30PX;
+}
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: rgb(141, 228, 255);
+    margin: 130px;
+}
+.bold{
+    font-size: 25px;
+    color: deeppink;
+    
+}
+main section{
+margin-top: 130px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
+}
+#what-i-do{
+    padding: 30px 150px;
+    color: rgb(192, 51, 0);
+    margin-top: 5px;
+}
+.section-title{
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-description{
+    color: rgb(167, 9, 159);
+    
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    box-shadow: 0px 6px 50px 0px ;
+
+}
+.resume-column-title{
+    color:rgb(228, 126, 3) ;
+    font-size: 30PX;
+    font-weight: 700;
+}
+.resum-container{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-ins,.resume-item-descr{
+    color: rgb(46, 121, 3) ;
+}
+.resume-item-title{
+    color: rgb(78, 78, 226);
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resum-container hr{
+    margin: 30px;
+}
+.resume-item-ins{
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    background-color: rgb(85, 238, 162);
+    padding: 130px 200px;
+    margin-top: 100px;
+    gap: 100px;
+}
+.footer-colum{
+    width: 50%;
+}
+.contact input, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: rgb(216, 216, 216);
+    border-radius: 5px;
+    background-color: rgb(150, 223, 223);
+    border: 0;
+    width: 100%;
+}
+
+.social-links a{
+    margin-right: 20px
+    
+}
+.um .btn{
+    width: auto;
+    background-color: tomato;
+}

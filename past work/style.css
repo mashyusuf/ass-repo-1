@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+    
+}
+.hero h1{
+    background-image: url("cow..5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: auto;
+    color: rgb(3, 62, 110);
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.artical , #any{
+    
+    margin:60px auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    padding: 60px;
+    background-color: brown;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: linear-gradient(pink,purple);
+}
+.artical h2 , #any h2{
+    text-align: center;
+    font-size: 45px;
+    border-style:solid;
+    border-width: 5px;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    margin: 20px;
+    background-color: rgb(21, 211, 211);
+   
+}
+.artical p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.artical p .imp{
+font-size: 40px;
+}
+.cow-type{
+    display: flex;
+    margin-left: 250px;
+    margin-right: 100pxpx;
+    gap: 20px;
+    flex-direction: row;
+    
+}
+.cow-type div{
+    min-width: 300px;
+   
+}
+.cow-type img{
+    width: 300px;
+    
+    
+}
